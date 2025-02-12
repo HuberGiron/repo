@@ -11429,3 +11429,30 @@ html {
   background-repeat: no-repeat;
   min-height: 15rem;
 }
+
+
+model-viewer {
+	width: 40%;
+	height: auto;
+	aspect-ratio: 4/3;
+	margin: auto;
+	border: 1px #c4c4c4 solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
